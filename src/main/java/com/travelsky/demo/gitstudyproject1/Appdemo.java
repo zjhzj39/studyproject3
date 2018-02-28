@@ -4,7 +4,7 @@ package com.travelsky.demo.gitstudyproject1;
  * Hello world!
  *
  */
-public class App 
+public class Appdemo 
 {
     public static void main( String[] args )
     {
